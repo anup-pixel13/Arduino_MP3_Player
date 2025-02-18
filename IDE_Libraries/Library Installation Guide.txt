@@ -8,8 +8,7 @@ Library Installation Guide
 
 2. Start the Arduino IDE
 
-3. Go to Sketch > Include Library > Add .ZIP Library
+3. Navigate to the main arduino library folder which you just copied and in examples folder there will be demo examples select any .ino (code file) there and click on compile button. 
 
-4. Select the library you want to add
+4. If the library is correctly installed you will not get any errors.
 
-5. If the library installs correctly, you'll see a message in the notice window
